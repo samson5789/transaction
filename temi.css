@@ -1,0 +1,174 @@
+*{
+    padding: 0px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #efefef;
+}
+header {
+    width:900px;
+    height: 750px;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 300px;
+}
+
+.client h2 {
+    margin-right: 200px;
+    font-family: sans-serif;
+}
+
+.on p {
+    margin-left:20px;
+    margin-top:-20px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+header img {
+  margin-left: 700px;
+}
+
+header hr {
+    width: 800px;
+    background-color: blue;
+}  
+
+.up p {
+    margin-left:50px;
+    margin-top: 20px;
+    font-size: large;
+    font-family: sans-serif;
+    
+}
+.to p {
+    margin-left:500px;
+    margin-top:-40px;
+    
+}
+
+ hr {
+    width:200px;
+    background-color: blue;
+     
+}
+
+.a p {
+    margin-left: 50px;
+    font-size: large;
+}
+
+.b p {
+    margin-left: 500px;
+    margin-top: -40px;
+}
+
+.c p {
+    margin-left: 60px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.d p {
+    margin-left: 500px;
+    margin-top: -40px;
+    font-size: large;
+}
+
+.e p {
+    margin-left: 60px;
+    margin-top:20px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+
+.f p {
+    margin-left:500px;
+    margin-top: -40px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.g p {
+    margin-left: 50px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.h p {
+    margin-left: 500px;
+    margin-top: -40px;
+}
+
+footer {
+    background-color: aqua;
+    width: 900px;
+    height:400px;
+    margin-left:300px;
+    margin-top: -20px;
+} 
+
+footer p{
+    padding-top:110px;
+    margin-left:90px;
+    font-size: large;
+    font-family: sans-serif;  
+
+}
+
+.tu p {
+    margin-top:-200px;
+    margin-left: 300px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+
+.as p {
+    margin-top:20px;
+    margin-left:300px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.we p {
+    margin-left:300px;
+    font-size: large;
+    font-family: sans-serif;
+
+}
+
+.do p {
+    margin-left: 300px;
+    font-size: large;
+    font-family: sans-serif;
+}
+/* .yo hr {
+    width:500px;
+    margin-left:300px;
+    background-color: blue;
+    padding: 10px;
+    border: none;
+    outline: none;
+} */
+
+#wrapper {
+    width: 500px;
+    height: 20px;
+    background-color: blue;
+    border: none;
+    outline: none;
+    margin-left: 300px;
+}
+
+#contact p {
+    position:absolute;
+    padding-left: 800px;
+    margin-top:-50px;
+    font-size: large;
+    font-family: sans-serif;
+
+}
